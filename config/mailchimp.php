@@ -4,7 +4,7 @@
  * @author	Jan Lindblom <jan@powcorp.se>
  * @copyright	Copyright (c) 2012, POW! Corp.
  * @license	MIT
- * @version	1.3.0
+ * @version	1.3.1
  */
 
 $config['apikey'] = '';
